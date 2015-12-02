@@ -23,3 +23,24 @@
 .profile-info > p {
   font-weight: 400;
 }
+
+.profile-info-list {
+  margin: 0px;
+  padding: 0px;
+  padding-right: 10px;
+  margin-bottom: 180px;
+}
+
+.profile-info-list > li > a{
+  float: left;
+  text-decoration: none;
+  color: #000;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  padding: 5px;
+}
+
+.profile-info-list > li:first-of-type a {
+  border-top: 1px solid #ccc;
+  width: 100%;
+}
