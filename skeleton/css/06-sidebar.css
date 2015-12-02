@@ -1,0 +1,25 @@
+/* PHASE 6: Sidebar */
+.profile-picture {
+  display: block;
+  width: 200px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: -100px;
+  position: relative;
+  /*bottom: 100px;*/
+}
+
+.profile-info {
+  width: 200px;
+  margin: auto;
+}
+
+.profile-info > h3{
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.profile-info > p {
+  font-weight: 400;
+}
