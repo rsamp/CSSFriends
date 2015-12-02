@@ -29,7 +29,12 @@
   margin: 0px;
   padding: 0px;
   padding-right: 10px;
-  margin-bottom: 180px;
+}
+
+.profile-nav {
+  width: 200px;
+  margin: auto;
+  padding-bottom: 5px;
 }
 
 .profile-info-list > li > a{
